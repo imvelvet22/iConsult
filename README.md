@@ -3,7 +3,7 @@ iConsult: A BUSINESS CONSULTANCY INTEGRATED WITH PROJECT MANAGEMENT SYSTEM AND C
 
 Group4
 
-Project Manager - Rueras, Ritchelle T. 
-Front-end Developer - Bautista, Clarieza H. 
-Front-end Developer - Cabigting, Monique Kyle 
-Back-end Developer - San Diego, Trishia I. 
+(Project Manager) Rueras, Ritchelle T. 
+(Front-end Developer) Bautista, Clarieza H. 
+(Front-end Developer) Cabigting, Monique Kyle 
+(Back-end Developer) San Diego, Trishia I. 
