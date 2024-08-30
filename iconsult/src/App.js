@@ -1,17 +1,12 @@
+// App.js
 import React from 'react';
-import Sidebar from './Sidebar';
-import Header from './Header';
-import HomePage from './HomePage';
-import './App.css';
+import HomePage from './HomePage'; // Import your HomePage component
+// Remove the import for Sidebar if you don't have one
 
 function App() {
     return (
         <div className="App">
-            <Sidebar />
-            <div className="main-content">
-                <Header />
-                <HomePage />
-            </div>
+            <HomePage />
         </div>
     );
 }
