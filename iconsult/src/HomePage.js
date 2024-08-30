@@ -20,6 +20,7 @@ function HomePage() {
                 </ul>
             </div>
             <div className="content">
+            
                 <h2>Admin Dashboard</h2>
                 <h1>Overview</h1>
                
