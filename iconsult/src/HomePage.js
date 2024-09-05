@@ -17,6 +17,7 @@ function HomePage() {
                     <li><a href="#clients">Clients</a></li>
                     <li><a href="#employees">Employees</a></li>
                     <li><a href="#survey">Survey</a></li>
+                    <li><a href="#logout">Logout</a></li>
                 </ul>
             </div>
             <div className="content">
