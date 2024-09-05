@@ -1,8 +1,7 @@
 import React from 'react';
-import './LoginForm.css'; // Import the CSS file for styling
+import './LoginForm.css'; 
 import { FaUser, FaLock } from "react-icons/fa";
-import logo from '../Assets/logo1.png'; // Correct path
-
+import logo from '../Assets/logo1.png'; 
 
 const Login = () => {
   return (
