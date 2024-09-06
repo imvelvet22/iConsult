@@ -1,12 +1,12 @@
-// App.js
+
 import React from 'react';
-import HomePage from './HomePage'; // Import your HomePage component
-// Remove the import for Sidebar if you don't have one
+import Login from './Login/LoginForm';
+
 
 function App() {
     return (
         <div className="App">
-            <HomePage />
+            <Login />
         </div>
     );
 }
